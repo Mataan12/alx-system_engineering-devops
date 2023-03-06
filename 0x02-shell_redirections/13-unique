@@ -1,1 +1,2 @@
-VimCrypt~03!™–>¼„ÛúÊ’Ê5CÚªê´­P8 Éíög;ÜV{cäëzÛ A
+#!/bin/bash
+sort | uniq -u
